@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SunainaAnand28/My-Portfolio/static/css/main.d982b648.css",
+    "main.js": "/SunainaAnand28/My-Portfolio/static/js/main.f777aac2.js",
+    "index.html": "/SunainaAnand28/My-Portfolio/index.html",
+    "main.d982b648.css.map": "/SunainaAnand28/My-Portfolio/static/css/main.d982b648.css.map",
+    "main.f777aac2.js.map": "/SunainaAnand28/My-Portfolio/static/js/main.f777aac2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d982b648.css",
+    "static/js/main.f777aac2.js"
+  ]
+}
