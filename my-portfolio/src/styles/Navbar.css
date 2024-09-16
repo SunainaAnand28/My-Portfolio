@@ -1,99 +1,99 @@
 /* Navbar Container */
 .nav-container {
-    display: flex;
-    justify-content: space-between; 
-    align-items: center; 
-    background-color: #000000;
-    padding: 10px 20px; 
-    position: fixed;
-    width: 100%;
-    z-index: 999;
-    top: 0;
-    left: 0; 
-    box-sizing: border-box; 
+  display: flex;
+  justify-content: space-between; 
+  align-items: center; 
+  background-color: #000000;
+  padding: 10px 20px; 
+  position: fixed;
+  width: 100%;
+  z-index: 999;
+  top: 0;
+  left: 0; 
+  box-sizing: border-box; 
 }
 
 /* Logo Styling */
 .nav-logo {
-    font-size: 1.5rem;
-    color: white;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    text-decoration: none;
+  font-size: 1.5rem;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-decoration: none;
 }
 
 /* Navigation List */
 .nav-list {
-    display: flex;
-    list-style: none;
-    margin: 0;
-    padding: 0;
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 /* Navigation Links */
 .nav-list li {
-    margin-left: 20px; 
+  margin-left: 20px; 
 }
 
-.nav-list a {
-    text-decoration: none;
-    color: white;
-    font-size: 1rem;
-    padding: 8px 12px;
-    transition: background-color 0.3s ease, color 0.3s ease;
-    border-radius: 5px;
+.nav-list button {
+  background: none; /* Remove background color */
+  border: none; /* Remove border */
+  color: #ffffff; /* Text color */
+  font-size: 1rem; /* Font size */
+  padding: 3px 8px; /* Maintain consistent padding */
+  margin: 0; /* Remove margin */
+  text-decoration: none; /* Remove any default button decoration */
+  cursor: pointer; /* Show pointer cursor */
+  box-sizing: border-box; /* Include border in button size */
 }
 
 /* Hover Effects */
-.nav-list a:hover {
-    background-color: #353940; 
-    color: #ff9800; 
+.nav-list button:hover {
+  color: #ff9800; /* Change text color on hover */
 }
 
 /* Active Link Style */
-.nav-list a.active {
-    background-color: #ff9800; 
-    color: white; 
+.nav-list button.active {
+  color: #ff9800;
 }
+
 /* Responsive: Hide nav-list on small screens */
 @media (max-width: 768px) {
-  .nav-list {
-    display: none; 
-    flex-direction: column;
-    position: absolute;
-    top: 100%; 
-    right: 0;
-    background-color: #1d2027;
-    padding: 1rem;
-    border-radius: 8px;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
-    width: 250px; 
- 
-  }
+.nav-list {
+  display: none; 
+  flex-direction: column;
+  position: absolute;
+  top: 100%; 
+  right: 0;
+  background-color: #1d2027;
+  padding: 1rem;
+  border-radius: 8px;
+  width: 250px; 
+}
 
-  .nav-list.active {
-    display: flex; 
-  }
+.nav-list.active {
+  display: flex; 
+}
 
-  .nav-list li {
-    margin: 0.5rem 0;
-  }
+.nav-list li {
+  margin: 0.5rem 0;
+}
 
-  .hamburger {
-    display: block;
-    cursor: pointer;
-    font-size: 1.5rem;
-    color: white;
-    position: absolute;
-    right: 20px;
-    top: 50%;
-    transform: translateY(-50%);
-  }
+.hamburger {
+  display: block;
+  cursor: pointer;
+  font-size: 1.5rem;
+  color: white;
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+}
 }
 
 /* Large screens: Hide the hamburger */
 @media (min-width: 769px) {
-  .hamburger {
-    display: none;
-  }
+.hamburger {
+  display: none;
+}
 }

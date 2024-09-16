@@ -4,23 +4,30 @@ import '../styles/Navbar.css';
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
-  const toggleMenu = () => {
-    setIsMenuOpen(!isMenuOpen);
+  const scrollToSection = (sectionId) => {
+    const section = document.getElementById(sectionId);
+    if (section) {
+      window.scrollTo({
+        top: section.offsetTop,
+        behavior: 'smooth',
+      });
+    }
+    setIsMenuOpen(false); // Close the menu after clicking
   };
 
   return (
     <nav className="nav-container">
-      <a href="#home" className="nav-logo">Sunaina Anand</a>
+      <a className="nav-logo" onClick={() => scrollToSection('home')}>Sunaina Anand</a>
       
-      <div className="hamburger" onClick={toggleMenu}>
+      <div className="hamburger" onClick={() => setIsMenuOpen(!isMenuOpen)}>
         &#9776;
       </div>
       
       <ul className={`nav-list ${isMenuOpen ? 'active' : ''}`}>
-        <li><a href="#home" onClick={() => setIsMenuOpen(false)}>Home</a></li>
-        <li><a href="#about" onClick={() => setIsMenuOpen(false)}>About Me</a></li>
-        <li><a href="#projects" onClick={() => setIsMenuOpen(false)}>Projects</a></li>
-        <li><a href="#contact" onClick={() => setIsMenuOpen(false)}>Contact</a></li>
+        <li><button onClick={() => scrollToSection('home')}>Home</button></li>
+        <li><button onClick={() => scrollToSection('about')}>About Me</button></li>
+        <li><button onClick={() => scrollToSection('projects')}>Projects</button></li>
+        <li><button onClick={() => scrollToSection('contact')}>Contact</button></li>
       </ul>
     </nav>
   );
