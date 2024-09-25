@@ -36,20 +36,20 @@
 }
 
 .nav-list button {
-  background: none; /* Remove background color */
-  border: none; /* Remove border */
-  color: #ffffff; /* Text color */
-  font-size: 1rem; /* Font size */
-  padding: 3px 8px; /* Maintain consistent padding */
-  margin: 0; /* Remove margin */
-  text-decoration: none; /* Remove any default button decoration */
-  cursor: pointer; /* Show pointer cursor */
-  box-sizing: border-box; /* Include border in button size */
+  background: none; 
+  border: none; 
+  color: #ffffff;
+  font-size: 1rem;
+  padding: 3px 8px; 
+  margin: 0; 
+  text-decoration: none;
+  cursor: pointer; 
+  box-sizing: border-box; 
 }
 
 /* Hover Effects */
 .nav-list button:hover {
-  color: #ff9800; /* Change text color on hover */
+  color: #ff9800; 
 }
 
 /* Active Link Style */

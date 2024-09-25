@@ -8,7 +8,7 @@ function Contact() {
         <h3>Contact Me</h3>
         <p>If you have any questions or need further assistance, feel free to reach out to me:</p>
         <p>
-          <strong>Sunaina Anand</strong> - Web Development Intern at SinQlarity
+          <strong>Sunaina Anand</strong> - Full Stack Developer Intern at SinQlarity
         </p>
         <p>Email: <a href="mailto:sunainaanand28@gmail.com">sunainaanand28@gmail.com</a></p>
 

@@ -8,14 +8,10 @@ const AboutMe = () => {
 
       <h2>About Me</h2>
       <p>
-        Hi, I'm Sunaina Anand, a passionate web developer and blockchain enthusiast.
-        I am currently pursuing my Bachelor's in Computer Applications (BCA) and interning
-        as a Full Stack Developer at SinQlarity. I love learning about Web3 technologies and
-        contributing to open-source projects.
+      Hi, I'm Sunaina Anand, a passionate web developer and blockchain enthusiast. I'm currently pursuing a Bachelor's in Computer Applications (BCA) and interning as a Full Stack Developer at SinQlarity. I'm deeply interested in Web3 technologies and enjoy contributing to open-source projects.
       </p>
       <p>
-        In addition to my technical skills, I enjoy singing and crafting. I'm always
-        eager to connect with like-minded professionals and continue growing my skills.
+      Apart from my technical skills, I enjoy singing and crafting. I'm always eager to connect with like-minded professionals and continuously grow my skills.
       </p>
       <div className="skills-section">
         <h2>Skills</h2>
@@ -36,12 +32,12 @@ const AboutMe = () => {
               <em>Expected Graduation: 2025</em>
             </li>
             <li>
-              <strong>Higher Secondary Education</strong><br />
+              <strong>Intermediate</strong><br />
               Saraswati Vidya Mandir<br />
               Completed: 2022
             </li>
             <li>
-              <strong>Secondary Education</strong><br />
+              <strong>High School</strong><br />
               Saraswati Vidya Mandir<br />
               Completed: 2020
             </li>
