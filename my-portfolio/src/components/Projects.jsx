@@ -4,7 +4,7 @@ import '../styles/Projects.css';
 const Projects = () => {
   const projectData = [
     {
-      title: "QuizCraft",
+      title: "QuizCraft(Not Live yet) ",
       description: "A comprehensive quiz app built with the MERN stack, featuring quiz creation, user authentication, and results tracking.",
       techStack: "MERN Stack (MongoDB, Express, React, Node.js)",
       githubLink: "https://github.com/SunainaAnand28/QuizCraft-MERN-Quiz-App",
