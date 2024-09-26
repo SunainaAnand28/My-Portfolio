@@ -8,7 +8,7 @@ const Projects = () => {
       description: "A comprehensive quiz app built with the MERN stack, featuring quiz creation, user authentication, and results tracking.",
       techStack: "MERN Stack (MongoDB, Express, React, Node.js)",
       githubLink: "https://github.com/SunainaAnand28/QuizCraft-MERN-Quiz-App",
-      liveLink: "https://quizapp.com"
+      liveLink: "https://quiz-craft-coral.vercel.app/"
     },
     {
       title: "Tic-Tac-Toe Game",
