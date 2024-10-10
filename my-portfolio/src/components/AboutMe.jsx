@@ -18,7 +18,7 @@ const AboutMe = () => {
         <ul>
           <li><strong>Programming Languages:</strong> JavaScript, Python</li>
           <li><strong>Web Technologies:</strong> React, Node.js, Express, MongoDB</li>
-          <li><strong>Tools:</strong> Git, Postman, Canva, VS code, Google Docs</li>
+          <li><strong>Tools:</strong> Git, Postman, Canva, VS code</li>
         </ul>
       </div>
       <h2>Education and Experience</h2>
