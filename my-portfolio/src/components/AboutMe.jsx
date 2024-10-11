@@ -18,7 +18,7 @@ const AboutMe = () => {
         <ul>
           <li><strong>Programming Languages:</strong> JavaScript, Python</li>
           <li><strong>Web Technologies:</strong> React, Node.js, Express, MongoDB</li>
-          <li><strong>Tools:</strong> Git, Postman, Canva, VS code</li>
+          <li><strong>Tools:</strong> Git, Postman, Canva, VS code, Jira</li>
         </ul>
       </div>
       <h2>Education and Experience</h2>
@@ -49,7 +49,7 @@ const AboutMe = () => {
           <ul>
             <li>
               <strong>Full Stack Developer Intern</strong><br />
-              SinQlarity (formerly known as TriwebAPI)
+              SinQlarity 
               <p>
                 As a Full Stack Developer Intern at SinQlarity, I work with technologies such as React, Node.js, and MongoDB while collaborating with teams to integrate decentralized solutions and smart contract features into the company's services.
               </p>
