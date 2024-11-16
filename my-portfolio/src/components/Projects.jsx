@@ -23,6 +23,13 @@ const Projects = () => {
       techStack: "HTML, CSS, JavaScript",
       githubLink: "https://github.com/sunainaanand28/To-Do-Web-App",
       liveLink: "https://sunainaanand28.github.io/To-Do-Web-App/"
+    },
+    {
+      title: "Forecastify",
+      description: "A weather application that allows users to check weather in their locality.",
+      techStack: "React, CSS",
+      githubLink: "https://github.com/sunainaanand28/forecastify",
+      liveLink: "https://forecastify-dun.vercel.app/"
     }
     // will add more projects here...
   ];
