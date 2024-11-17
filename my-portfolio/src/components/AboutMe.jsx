@@ -8,7 +8,7 @@ const AboutMe = () => {
 
       <h2>About Me</h2>
       <p>
-      Hi, I'm Sunaina Anand, a passionate web developer and blockchain enthusiast. I'm currently pursuing a Bachelor's in Computer Applications (BCA) and interning as a Full Stack Developer at SinQlarity. I'm deeply interested in Web3 technologies and enjoy contributing to open-source projects.
+      Hi, I'm Sunaina Anand, a passionate web developer and blockchain enthusiast.  I'm deeply interested in Web3 technologies and enjoy contributing to open-source projects.
       </p>
       <p>
       Apart from my technical skills, I enjoy singing and crafting. I'm always eager to connect with like-minded professionals and continuously grow my skills.

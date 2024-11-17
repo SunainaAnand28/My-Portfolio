@@ -38,6 +38,12 @@
   text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
 }
 
+.subtext{
+  font-size: 22px;
+  color: #fff;
+  
+}
+
 .introText p:nth-of-type(2) {
   font-size: 1.5rem;
   color: #ff9800;
