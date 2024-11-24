@@ -28,7 +28,7 @@
   max-width: 100%;
   box-sizing: border-box;
   display: flex;
-  flex-direction: column;
+  flex-direction: column; 
   justify-content: space-between; /* Make space between content and buttons */
   position: relative; /* Required for absolute positioning of buttons */
   min-height: 300px; /* Set a minimum height to ensure enough space */
@@ -90,7 +90,7 @@
   
 .project-card{
   padding: 5px;
-}
+  }
   .description{
     margin-bottom: 0;
   }
