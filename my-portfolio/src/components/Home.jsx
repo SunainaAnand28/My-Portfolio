@@ -7,8 +7,8 @@ function Home() {
       <img src="/portfoliopic.gif" alt="Profile" className={styles.profilePic} />
       <div className={styles.introText}>
         <h1 className={styles.introHeading}>Hi, I’m Sunaina</h1>
-        <p>Full Stack Developer Intern | Web3 Enthusiast</p>
-       <div className={styles.subtext} > I'm currently pursuing a Bachelor's in Computer Applications (BCA) and interning as a Full Stack Developer at SinQlarity.</div>
+        <p>Full Stack Developer | Web3 Enthusiast</p>
+       <div className={styles.subtext} > I'm currently interning as a Web Developer at SinQlarity.</div>
         <div className={styles.resumeDownload}>
           <a href="/resume.pdf" download="Sunaina_Anand_Resume.pdf">
             <button className={styles.downloadBtn}>Download Resume</button>

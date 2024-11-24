@@ -8,17 +8,34 @@ const AboutMe = () => {
 
       <h2>About Me</h2>
       <p>
-      Hi, I'm Sunaina Anand, a passionate web developer and blockchain enthusiast.  I'm deeply interested in Web3 technologies and enjoy contributing to open-source projects.
+      I am passionate about Web3 and programming, always eager to learn new technologies and build creative web solutions. 
+Right now, I’m working as a Web Development Intern at SinQlarity, where I use Agile tools like JIRA to complete tasks efficiently and deliver great results. This experience has helped me strengthen my technical knowledge and taught me the importance of teamwork.
+
+My BCA studies have given me a strong base in programming, and I’m excited to use this foundation to become a skilled web developer.
+I love connecting with people who share my interests in tech, learning, and growth. Let’s connect and see how we can create something amazing together!
       </p>
-      <p>
-      Apart from my technical skills, I enjoy singing and crafting. I'm always eager to connect with like-minded professionals and continuously grow my skills.
-      </p>
+   <div className="hobby-section">
+   <h3>Hobbies</h3>
+<ul>
+  <li><strong>Singing:</strong> I find joy in expressing emotions through music and enjoy experimenting with different genres.</li>
+  <li><strong>Crafting:</strong> Whether it's DIY projects or creative art, crafting allows me to unwind and let my imagination flow.</li>
+
+</ul>
+   </div>
       <div className="skills-section">
         <h2>Skills</h2>
         <ul>
-          <li><strong>Programming Languages:</strong> JavaScript, Python</li>
-          <li><strong>Web Technologies:</strong> React, Node.js, Express, MongoDB</li>
-          <li><strong>Tools:</strong> Git, Postman, Canva, VS code, Jira</li>
+          <li>JavaScript</li>
+          <li>TypeScript</li>
+          <li>React.js</li>
+          <li>Node.js</li>
+          <li>Express.js</li>
+          <li>MongoDB</li>
+          <li>HTML5</li>
+          <li>CSS3</li>
+          <li> Git</li>
+          <li>Jira</li>
+          <li>Postman</li>
         </ul>
       </div>
       <h2>Education and Experience</h2>
@@ -29,7 +46,7 @@ const AboutMe = () => {
             <li>
               <strong>Bachelor of Computer Applications (BCA)</strong><br />
               Shri Lal Bahadur Shastri Degree College - Ongoing<br />
-              <em>Expected Graduation: 2025</em>
+              2022 - Present
             </li>
             <li>
               <strong>Intermediate</strong><br />
@@ -49,9 +66,9 @@ const AboutMe = () => {
           <ul>
             <li>
               <strong>Full Stack Developer Intern</strong><br />
-              SinQlarity 
+              Tri-Web Genesis Pvt. Ltd.
               <p>
-                As a Full Stack Developer Intern at SinQlarity, I work with technologies such as React, Node.js, and MongoDB while collaborating with teams to integrate decentralized solutions and smart contract features into the company's services.
+                As a Full Stack Developer Intern at SinQlarity, I work to Develop and maintain web applications using the MERN stack, focusing on scalable and efficient code, collaborate with the development team to build user friendly interfaces and optimize backend functionality, ensuring a seamless user experience. Implement RESTful APIs and ensure seamless integration with the frontend.. Work within an Agile development framework, leveraging tools like Jira to plan, track, and manage the development lifecycle effectively
               </p>
               <b> May 2024 - Present</b>
             </li>
