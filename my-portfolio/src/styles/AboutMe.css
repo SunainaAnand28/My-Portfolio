@@ -3,7 +3,6 @@
   background-color: #343a48;
   padding: 50px;
   margin: 0 auto;
-  box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.15);
 }
 
 .about-me-container h2 {
@@ -32,7 +31,7 @@
   line-height: 1.8;
   color: #fff9f9;
   margin-bottom: 20px;
-  text-align: justify;
+  text-align: left;
 }
 
 .about-me-container p:last-child {
@@ -84,7 +83,6 @@
   padding: 20px;
   background-color: #1a1f27;
   border-radius: 10px;
-  box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.1);
 }
 
 .skills-section h3 {
@@ -109,7 +107,6 @@
   background: linear-gradient(135deg, #18191a, #a4a2a072);
   border-radius: 8px;
   padding: 20px;
-  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
   transition: background-color 0.3s ease, transform 0.3s ease;
   border-left: 5px solid #ff9800;
 }
@@ -136,7 +133,6 @@
   background-color: #1a1f27;
   padding: 20px;
   border-radius: 10px;
-  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
 }
 
 .education-section h2,
@@ -169,7 +165,6 @@
   border-left: 5px solid #5d97b7;
   background: linear-gradient(135deg, #f6f9fd, #f3f7f9, #f4f2f7, #ff9900e8);
   border-radius: 8px;
-  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
   transition: background-color 0.3s ease, transform 0.3s ease;
 }
 

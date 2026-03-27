@@ -8,20 +8,11 @@ const AboutMe = () => {
 
       <h2>About Me</h2>
       <p>
-      I am passionate about Web3 and programming, always eager to learn new technologies and build creative web solutions. 
-Right now, I’m working as a Web Development Intern at SinQlarity, where I use Agile tools like JIRA to complete tasks efficiently and deliver great results. This experience has helped me strengthen my technical knowledge and taught me the importance of teamwork.
-
-My BCA studies have given me a strong base in programming, and I’m excited to use this foundation to become a skilled web developer.
-I love connecting with people who share my interests in tech, learning, and growth. Let’s connect and see how we can create something amazing together!
+        Hello, I’m Sunaina Anand, currently working as an IT Trainer at OIPL Okeanos Infotech Pvt. Ltd.
+        I have experience as a Full Stack Developer Intern at SinQlarity, where I contributed to projects in an agile environment. I am involved in training students in programming and web designing, focusing on building strong fundamentals through practical learning.
+        Let’s connect and see how we can create something amazing together!
       </p>
-   <div className="hobby-section">
-   <h3>Hobbies</h3>
-<ul>
-  <li><strong>Singing:</strong> I find joy in expressing emotions through music and enjoy experimenting with different genres.</li>
-  <li><strong>Crafting:</strong> Whether it's DIY projects or creative art, crafting allows me to unwind and let my imagination flow.</li>
 
-</ul>
-   </div>
       <div className="skills-section">
         <h2>Skills</h2>
         <ul>
@@ -45,18 +36,8 @@ I love connecting with people who share my interests in tech, learning, and grow
           <ul>
             <li>
               <strong>Bachelor of Computer Applications (BCA)</strong><br />
-              Shri Lal Bahadur Shastri Degree College - Ongoing<br />
-              2022 - Present
-            </li>
-            <li>
-              <strong>Intermediate</strong><br />
-              Saraswati Vidya Mandir<br />
-              Completed: 2022
-            </li>
-            <li>
-              <strong>High School</strong><br />
-              Saraswati Vidya Mandir<br />
-              Completed: 2020
+              Shri Lal Bahadur Shastri Degree College<br />
+              2022 - 2025
             </li>
           </ul>
         </div>
@@ -65,17 +46,39 @@ I love connecting with people who share my interests in tech, learning, and grow
           <h3>Experience</h3>
           <ul>
             <li>
-              <strong>Full Stack Developer Intern</strong><br />
-              Tri-Web Genesis Pvt. Ltd.
+              <strong>IT Trainer</strong><br />
+              Okeanos Infotech Pvt. Ltd.
               <p>
-                As a Full Stack Developer Intern at SinQlarity, I work to Develop and maintain web applications using the MERN stack, focusing on scalable and efficient code, collaborate with the development team to build user friendly interfaces and optimize backend functionality, ensuring a seamless user experience. Implement RESTful APIs and ensure seamless integration with the frontend.. Work within an Agile development framework, leveraging tools like Jira to plan, track, and manage the development lifecycle effectively
+                Trained O Level students in Web Designing & Web Publishing.
+Taught IT tools, Computer Fundamentals, and Networking Basics.
+Guided Students on practical websites creation and publishing concepts.
+Supported learners with hands-on labs and real-world examples.
+              </p>
+              <b> May 2024 - Present</b>
+            </li>
+          </ul>
+          <ul>
+            <li>
+              <strong>Full Stack Developer Intern</strong><br />
+              Tri-Web Genesis Pvt. Ltd. - SinQlarity
+              <p>
+                As a Full Stack Developer Intern at SinQlarity, I worked to Develop and maintain web applications using the MERN stack. Implemented RESTful APIs and ensured seamless integration with the frontend.
+                Work within an Agile development framework, leveraging tools like Jira to plan, track, 
+                and manage the development lifecycle effectively.
               </p>
               <b> May 2024 - Present</b>
             </li>
           </ul>
         </div>
       </div>
+      <div className="hobby-section">
+        <h3>Hobbies</h3>
+        <ul>
+          <li><strong>Singing:</strong> I find joy in expressing emotions through music.</li>
+          <li><strong>Crafting:</strong> Whether it's DIY projects or creative art, crafting allows me to unwind and let my imagination flow.</li>
 
+        </ul>
+      </div>
     </div>
   );
 };
