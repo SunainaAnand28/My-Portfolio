@@ -17,7 +17,7 @@ const Navbar = () => {
 
   return (
     <nav className="nav-container">
-      <a className="nav-logo" onClick={() => scrollToSection('home')}>Sunaina Anand</a>
+      <a href='#' className="nav-logo" onClick={() => scrollToSection('home')}>Sunaina Anand</a>
       
       <div className="hamburger" onClick={() => setIsMenuOpen(!isMenuOpen)}>
         &#9776;
