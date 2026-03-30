@@ -5,31 +5,10 @@ const Projects = () => {
   const projectData = [
     {
       title: "QuizCraft",
-      description: "A comprehensive quiz app built with the MERN stack, featuring quiz creation, user authentication, and results tracking.",
+      description: "A full-stack quiz platform built with the MERN stack, featuring JWT-based user authentication, dynamic quiz creation, and a personal results dashboard. Built RESTful APIs in Node/Express to connect a React frontend with a MongoDB database. Designed with a focus on clean UX and secure user sessions.",
       techStack: "MERN Stack",
       githubLink: "https://github.com/SunainaAnand28/QuizCraft-MERN-Quiz-App",
       liveLink: "https://quizcraft-je7d.onrender.com"
-    },
-    {
-      title: "Tic-Tac-Toe",
-      description: "A classic tic-tac-toe game with custom CSS styling to play and enjoy.",
-      techStack: "React, CSS",
-      githubLink: "https://github.com/sunainaanand28/Tic-Tac-Toe",
-      liveLink: "https://sunainaanand28.github.io/Tic-Tac-Toe/"
-    },
-    {
-      title: "To-Do List App",
-      description: "A straightforward to-do list application that allows users to add, and delete tasks.",
-      techStack: "HTML, CSS, JavaScript",
-      githubLink: "https://github.com/sunainaanand28/To-Do-Web-App",
-      liveLink: "https://sunainaanand28.github.io/To-Do-Web-App/"
-    },
-    {
-      title: "Forecastify",
-      description: "A weather application that allows users to check weather in their locality.",
-      techStack: "React, CSS",
-      githubLink: "https://github.com/sunainaanand28/forecastify",
-      liveLink: "https://forecastify-dun.vercel.app/"
     }
     // will add more projects here...
   ];
