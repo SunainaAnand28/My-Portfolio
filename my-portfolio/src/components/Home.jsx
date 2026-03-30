@@ -13,8 +13,8 @@ function Home() {
   Okeanos Infotech, where I guide students through practical, hands-on 
   learning.</div>
         <div className={styles.resumeDownload}>
-          <a href="/resume.pdf" download="Sunaina_Anand_Resume.pdf">
-            <button className={styles.downloadBtn}>Download Resume</button>
+          <a href="/" download="">
+            <button disabled title='This Button is disabled for some time' className={styles.downloadBtn}>Download Resume</button>
           </a>
         </div>
         <div className={styles.socialLinks}>
