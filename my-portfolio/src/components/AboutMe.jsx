@@ -31,17 +31,6 @@ const AboutMe = () => {
       </div>
       <h2>Education and Experience</h2>
       <div className="education-experience-container">
-        <div className="education-section">
-          <h3>Education</h3>
-          <ul>
-            <li>
-              <strong>Bachelor of Computer Applications (BCA)</strong><br />
-              Shri Lal Bahadur Shastri Degree College<br />
-              2022 - 2025
-            </li>
-          </ul>
-        </div>
-
         <div className="experience-section">
           <h3>Experience</h3>
           <ul>
@@ -70,6 +59,17 @@ Supported learners with hands-on labs and real-world examples.
             </li>
           </ul>
         </div>
+        <div className="education-section">
+          <h3>Education</h3>
+          <ul>
+            <li>
+              <strong>Bachelor of Computer Applications (BCA)</strong><br />
+              Shri Lal Bahadur Shastri Degree College<br />
+              2022 - 2025
+            </li>
+          </ul>
+        </div>
+
       </div>
       <div className="hobby-section">
         <h3>Hobbies</h3>
