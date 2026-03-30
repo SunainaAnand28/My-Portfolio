@@ -55,7 +55,8 @@
 .tech-stack {
   font-weight: bold;
   margin: 0;
-  position: relative; /* Adding position property to reduce the margin from project card h3 */
+  position: relative;
+  /* Adding position property to reduce the margin from project card h3 */
   bottom: 35px;
 }
 

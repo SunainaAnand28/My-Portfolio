@@ -24,7 +24,7 @@
 }
 
 .introHeading {
-  font-size: 2.5rem; 
+  font-size: 2.5rem;
   color: #fff;
   margin-bottom: 10px;
   text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
@@ -38,10 +38,10 @@
   text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
 }
 
-.subtext{
+.subtext {
   font-size: 22px;
   color: #fff;
-  
+
 }
 
 .introText p:nth-of-type(2) {
@@ -78,7 +78,7 @@
 .socialLinks {
   display: flex;
   justify-content: center;
-  gap: 10px; 
+  gap: 10px;
   margin-top: 20px;
 }
 
@@ -133,7 +133,7 @@
   }
 
   .introHeading {
-    font-size: 1.8rem; 
+    font-size: 1.8rem;
   }
 
   .introText p {
@@ -161,7 +161,7 @@
   }
 
   .introHeading {
-    font-size: 1.5rem; 
+    font-size: 1.5rem;
   }
 
   .introText p {

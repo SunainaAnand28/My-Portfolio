@@ -39,9 +39,9 @@ const AboutMe = () => {
               Okeanos Infotech Pvt. Ltd.
               <p>
                 Trained O Level students in Web Designing & Web Publishing.
-Taught IT tools, Computer Fundamentals, and Networking Basics.
-Guided Students on practical websites creation and publishing concepts.
-Supported learners with hands-on labs and real-world examples.
+                Taught IT tools, Computer Fundamentals, and Networking Basics.
+                Guided Students on practical websites creation and publishing concepts.
+                Supported learners with hands-on labs and real-world examples.
               </p>
               <b> May 2024 - Present</b>
             </li>
@@ -52,7 +52,7 @@ Supported learners with hands-on labs and real-world examples.
               Tri-Web Genesis Pvt. Ltd. - SinQlarity
               <p>
                 As a Full Stack Developer Intern at SinQlarity, I worked to Develop and maintain web applications using the MERN stack. Implemented RESTful APIs and ensured seamless integration with the frontend.
-                Work within an Agile development framework, leveraging tools like Jira to plan, track, 
+                Work within an Agile development framework, leveraging tools like Jira to plan, track,
                 and manage the development lifecycle effectively.
               </p>
               <b> May 2024 - Present</b>

@@ -18,11 +18,11 @@ const Navbar = () => {
   return (
     <nav className="nav-container">
       <a href='#home' className="nav-logo" onClick={() => scrollToSection('home')}>Sunaina Anand</a>
-      
+
       <div className="hamburger" onClick={() => setIsMenuOpen(!isMenuOpen)}>
         &#9776;
       </div>
-      
+
       <ul className={`nav-list ${isMenuOpen ? 'active' : ''}`}>
         <li><button onClick={() => scrollToSection('home')}>Home</button></li>
         <li><button onClick={() => scrollToSection('about')}>About Me</button></li>

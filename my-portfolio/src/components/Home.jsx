@@ -8,10 +8,10 @@ function Home() {
       <div className={styles.introText}>
         <h1 className={styles.introHeading}>Hi, I’m Sunaina</h1>
         <p>Full Stack Developer | IT Trainer</p>
-       <div className={styles.subtext} > I build full-stack web apps using the MERN stack and train aspiring 
-  developers on web fundamentals. Currently working as an IT Trainer at 
-  Okeanos Infotech, where I guide students through practical, hands-on 
-  learning.</div>
+        <div className={styles.subtext} > I build full-stack web apps using the MERN stack and train aspiring
+          developers on web fundamentals. Currently working as an IT Trainer at
+          Okeanos Infotech, where I guide students through practical, hands-on
+          learning.</div>
         <div className={styles.resumeDownload}>
           <a href="/" download="">
             <button disabled title='This Button is disabled for some time' className={styles.downloadBtn}>Download Resume</button>

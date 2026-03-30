@@ -8,7 +8,7 @@ function Contact() {
         <h3>Contact Me</h3>
         <p>If you have any questions or need further assistance, feel free to reach out to me:</p>
         <p>
-          <strong>Sunaina Anand</strong> - IT Trainer 
+          <strong>Sunaina Anand</strong> - IT Trainer
         </p>
         <p>Email: <a href="mailto:sunainaanand28@gmail.com">sunainaanand28@gmail.com</a></p>
 
@@ -21,7 +21,7 @@ function Contact() {
 
           {/* Twitter */}
           <a href="https://twitter.com/_GeekyGlam" target="_blank" rel="noopener noreferrer">
-           <img src="/twitter-logo.png" alt="Twitter" className="social-icon" />
+            <img src="/twitter-logo.png" alt="Twitter" className="social-icon" />
           </a>
 
           {/* GitHub */}

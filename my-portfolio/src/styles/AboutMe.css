@@ -90,6 +90,8 @@
 
 }
 
+/* Styles for Education Section and Experience Section */
+
 .education-section,
 .experience-section {
   background-color: #1a1f27;
@@ -98,7 +100,7 @@
   margin: auto;
   border-radius: 10px;
 }
-/* Styles for Education Section and Experience Section */
+
 .education-section h2,
 .experience-section h2 {
   font-size: 2rem;
@@ -146,40 +148,40 @@
 .hobby-section {
   background-color: #343a48;
 
-  margin: 0 ;
- 
+  margin: 0;
+
 }
 
 .hobby-section h3 {
   font-size: 2rem;
-  color: #fffefe; 
-  margin-bottom: 10px; 
+  color: #fffefe;
+  margin-bottom: 10px;
   margin-top: 10px;
-  text-align: center; 
-  border-bottom: 2px solid #ff9800; 
-  display: inline-block; 
-  padding-bottom: 8px; 
+  text-align: center;
+  border-bottom: 2px solid #ff9800;
+  display: inline-block;
+  padding-bottom: 8px;
 }
 
 .hobby-section ul {
-  list-style-type: none; 
-  padding: 0; 
+  list-style-type: none;
+  padding: 0;
 }
 
 .hobby-section li {
-  font-size: 1.2rem; 
-  line-height: 1.8; 
-  color: #fff9f9; 
-  margin-bottom: 15px; 
+  font-size: 1.2rem;
+  line-height: 1.8;
+  color: #fff9f9;
+  margin-bottom: 15px;
   display: flex;
   align-items: center;
 }
 
 .hobby-section li::before {
-  content: '•'; 
-  color: #ff9800; 
+  content: '•';
+  color: #ff9800;
   font-size: 1.5rem;
-  margin-right: 10px; 
+  margin-right: 10px;
 }
 
 /* Responsive Design for smaller screens */
