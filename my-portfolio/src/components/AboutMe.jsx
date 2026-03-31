@@ -43,7 +43,7 @@ const AboutMe = () => {
                 Guided Students on practical websites creation and publishing concepts.
                 Supported learners with hands-on labs and real-world examples.
               </p>
-              <b> May 2024 - Present</b>
+              <b> Aug 2025 - Present</b>
             </li>
           </ul>
           <ul>
@@ -55,7 +55,7 @@ const AboutMe = () => {
                 Work within an Agile development framework, leveraging tools like Jira to plan, track,
                 and manage the development lifecycle effectively.
               </p>
-              <b> May 2024 - Present</b>
+              <b> May 2024 - Nov 2024</b>
             </li>
           </ul>
         </div>
@@ -66,6 +66,9 @@ const AboutMe = () => {
               <strong>Bachelor of Computer Applications (BCA)</strong><br />
               Shri Lal Bahadur Shastri Degree College<br />
               2022 - 2025
+              <p>Achieved 8.35 CGPA in BCA program.
+Developed strong understanding of core computer science fundamentals including Data Structures and Database Management Systems.
+Applied concepts by building real-world web applications using React, Node.js, and MongoDB.</p>
             </li>
           </ul>
         </div>
@@ -74,8 +77,8 @@ const AboutMe = () => {
       <div className="hobby-section">
         <h3>Hobbies</h3>
         <ul>
-          <li><strong>Singing:</strong> I find joy in expressing emotions through music.</li>
-          <li><strong>Crafting:</strong> Whether it's DIY projects or creative art, crafting allows me to unwind and let my imagination flow.</li>
+          <li><b>Singing:</b>I find joy in expressing emotions through music.</li>
+          <li><b>Crafting:</b> Whether it's DIY projects or creative art, crafting allows me to unwind and let my imagination flow.</li>
 
         </ul>
       </div>
