@@ -65,9 +65,8 @@ const AboutMe = () => {
             <li>
               <strong>Bachelor of Computer Applications (BCA)</strong><br />
               Shri Lal Bahadur Shastri Degree College<br />
-              2022 - 2025
-              <p>Achieved 8.35 CGPA in BCA program.
-Developed strong understanding of core computer science fundamentals including Data Structures and Database Management Systems.
+              2022 - 2025 | CGPA: 8.35
+              <p>Developed strong understanding of core computer science fundamentals including Data Structures and Database Management Systems.
 Applied concepts by building real-world web applications using React, Node.js, and MongoDB.</p>
             </li>
           </ul>
@@ -77,8 +76,8 @@ Applied concepts by building real-world web applications using React, Node.js, a
       <div className="hobby-section">
         <h3>Hobbies</h3>
         <ul>
-          <li><b>Singing:</b>I find joy in expressing emotions through music.</li>
-          <li><b>Crafting:</b> Whether it's DIY projects or creative art, crafting allows me to unwind and let my imagination flow.</li>
+          <li>Singing: I find joy in expressing emotions through music.</li>
+          <li>Crafting: Whether it's DIY projects or creative art, crafting allows me to unwind and let my imagination flow.</li>
 
         </ul>
       </div>
